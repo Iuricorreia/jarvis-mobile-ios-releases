@@ -1,0 +1,38 @@
+{
+  "name": "JARVIS",
+  "subtitle": "Atualizações do JARVIS para iPhone.",
+  "description": "App móvel que se liga ao JARVIS em execução no computador.",
+  "tintColor": "#00D8F5",
+  "apps": [
+    {
+      "name": "JARVIS",
+      "bundleIdentifier": "com.jarvis.mobile",
+      "developerName": "Iuri Correia",
+      "subtitle": "Acede ao JARVIS do PC pelo iPhone.",
+      "localizedDescription": "Liga a app ao JARVIS no computador através da rede local. Para conversar com o assistente, o PC e o JARVIS têm de estar ligados.",
+      "iconURL": "https://raw.githubusercontent.com/Iuricorreia/jarvis-mobile-ios-releases/main/icon.png",
+      "tintColor": "#00D8F5",
+      "category": "utilities",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "O JARVIS usa a câmara para ler o QR de emparelhamento apresentado no teu computador.",
+          "NSMicrophoneUsageDescription": "O JARVIS usa o microfone quando pedes comandos de voz ao assistente no computador.",
+          "NSLocalNetworkUsageDescription": "O JARVIS liga ao computador na tua rede Wi-Fi para controlar o assistente."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "2",
+          "date": "2026-11-01T15:30:30+00:00",
+          "localizedDescription": "Atualização do JARVIS para iPhone.",
+          "downloadURL": "https://github.com/Iuricorreia/jarvis-mobile-ios-releases/releases/download/v1.0.2/JarvisMobile-unsigned.ipa",
+          "size": 406134,
+          "minOSVersion": "16.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
