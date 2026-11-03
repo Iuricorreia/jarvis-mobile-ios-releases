@@ -24,11 +24,11 @@
       "versions": [
         {
           "version": "1.0",
-          "buildVersion": "5",
-          "date": "2026-11-03T03:22:16+00:00",
+          "buildVersion": "6",
+          "date": "2026-11-03T03:38:38+00:00",
           "localizedDescription": "Atualização do JARVIS para iPhone.",
-          "downloadURL": "https://github.com/Iuricorreia/jarvis-mobile-ios-releases/releases/download/v1.0.5/JarvisMobile-unsigned.ipa",
-          "size": 431981,
+          "downloadURL": "https://github.com/Iuricorreia/jarvis-mobile-ios-releases/releases/download/v1.0.6/JarvisMobile-unsigned.ipa",
+          "size": 429398,
           "minOSVersion": "16.0"
         }
       ]
